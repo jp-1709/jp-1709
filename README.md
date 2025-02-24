@@ -19,4 +19,4 @@
 
 ![Visitor Count](https://visitcount.itsvg.in/api?id=jp-1709&label=Profile%20Views&color=0&icon=5&pretty=true)
 ### 💡 Fun Fact
-I once built a full-stack app in 48 hours during a hackathon! 🚀
+Love excecuting solutions!
