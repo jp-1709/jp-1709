@@ -1,5 +1,4 @@
 ![Banner](https://your-banner-image-url.png)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jp-1709&layout=compact&theme=radical&hide_border=true)
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=jp-1709&theme=react-dark&hide_border=true)
 ### 🛠️ Skills
 ![Python](https://img.shields.io/badge/Python-90%25-%230075a8?style=flat&logo=python)
