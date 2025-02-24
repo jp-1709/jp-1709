@@ -1,5 +1,4 @@
 ![Banner](https://your-banner-image-url.png)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jp-1709&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jp-1709&layout=compact&theme=radical&hide_border=true)
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=jp-1709&theme=react-dark&hide_border=true)
 ### 🛠️ Skills
